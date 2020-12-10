@@ -1,5 +1,8 @@
 # 通用解压密码 amille
 
+## ps2021
+- 秒传链接:  暂无
+- 链接: https://pan.baidu.com/s/1m6_C1U1umj0a2W4eQkAJCw 提取码: mill 
 
 ## ps2020
 - 秒传链接:  4f709ce38f634b8598c4f8941e926e71#2a534ee62ba9c932c78647261b644aa4#1886844245#PS 傻瓜安装.zip
